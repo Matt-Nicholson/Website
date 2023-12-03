@@ -1,0 +1,191 @@
+body {
+
+background-color: #a3d0ee;
+margin: 0px;
+font-family: Georgia;
+font-size: 20px;
+
+}
+#header {
+/* take out the / so it works when uploading it*/
+background-image: url("snow.jpg");
+margin: 10px;
+height: 150px;
+border-radius: 5px;
+
+
+}
+
+#navbar {
+    list-style-type: none;
+    text-align: center;
+    background-color: #d9edff;
+    margin: 10px;
+    height:60px;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+
+#navbar ul li{
+display: inline;
+
+}
+
+#navbar ul li a{
+
+    font-family: Georgia;
+    padding: .2em 1em;
+    color: #000000;
+    background-color: #d9edff;
+
+}
+
+#navbar ul li a:hover{
+
+color:#fff;
+background-color: #00316e;
+}
+
+
+.main {
+background-color: #d9edff;
+margin-left: 10px;
+margin-right: 320px;
+margin-top: 10px;
+margin-bottom: 10px;
+border-radius: 5px;
+padding: 20px;
+font-size: 100%;
+text-align: center;
+}
+
+
+.sideright {
+background-color: #d9edff;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 0px;
+margin-bottom: 10px;
+border-radius: 5px;
+padding: 20px;
+font-size: 90%;
+float: right;
+width: 260px;
+}
+
+
+
+
+h1, h2, h3, h4, h5 {
+
+
+margin: 0px;
+font-family: Georgia;
+font-size: 40px;
+text-align: center;
+
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+
+/* Assignment 2*/
+
+
+h10{
+
+font-family: Georgia;
+font-size: 30px;
+
+}
+
+
+#btn1 {
+
+    font-family: Georgia;
+    padding: .2em 1em;
+    color: #d9edff;
+    background-color: #00316e;
+}
+#btn1:hover{
+    color: #000000;
+    background-color: #d9edff;
+
+}
+#btn2{
+    font-family: Georgia;
+    padding: .2em 1em;
+    color: #d9edff;
+    background-color: #00316e;
+}
+#btn2:hover{
+    color: #000000;
+    background-color: #d9edff;
+
+}
+
+#btn3{
+    font-family: Georgia;
+    padding: .2em 1em;
+    color: #d9edff;
+    background-color: #00316e;
+}
+#btn3:hover{
+    color: #000000;
+    background-color: #d9edff;
+
+}
+
+.output{
+    font-family: Georgia;
+    background-color: black;
+    color: white;
+}
+
+#add-cell{
+    font-family: Georgia;
+    padding: .2em 1em;
+    color: #d9edff;
+    background-color: #00316e;
+}
+#add-cell:hover{
+    color:#d9edff;
+    background-color: #000000;
+
+}
+#remove-cell{
+    font-family: Georgia;
+    padding: .2em 1em;
+    color: #d9edff;
+    background-color: #ff0000;
+}
+#remove-cell:hover{
+    color:#d9edff;
+    background-color: #000000;
+}
+#sort{
+    font-family: Georgia;
+    padding: .2em 1em;
+    color: #000000;
+    background-color: #d9edff;
+}
+
+#sort:hover{
+    color:#d9edff;
+    background-color: #000000;
+}
+
+.A2{
+    background-color: #d9edff;
+margin-left: 300px;
+margin-right: 300px;
+margin-top: 10px;
+margin-bottom: 10px;
+border-radius: 5px;
+padding: 20px;
+}
+
